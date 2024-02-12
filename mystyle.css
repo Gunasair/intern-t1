@@ -1,0 +1,8 @@
+a:hover {
+    color: #c800ff;
+    font-style: italic;
+  }
+
+  body:hover {
+    background-color: aqua;
+    }
